@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWQxCgP5X8s=",
+  "success": true,
+  "projectFilePath": "/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/dantealejo/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/dantealejo/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

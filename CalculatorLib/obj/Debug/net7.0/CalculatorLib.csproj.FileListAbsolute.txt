@@ -10,3 +10,14 @@
 /Users/dantealejo/Documents/pograavanzada1/2doparcial/UT/CalculatorLib/obj/Debug/net7.0/refint/CalculatorLib.dll
 /Users/dantealejo/Documents/pograavanzada1/2doparcial/UT/CalculatorLib/obj/Debug/net7.0/CalculatorLib.pdb
 /Users/dantealejo/Documents/pograavanzada1/2doparcial/UT/CalculatorLib/obj/Debug/net7.0/ref/CalculatorLib.dll
+/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/bin/Debug/net7.0/CalculatorLib.deps.json
+/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/bin/Debug/net7.0/CalculatorLib.dll
+/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/bin/Debug/net7.0/CalculatorLib.pdb
+/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/obj/Debug/net7.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/obj/Debug/net7.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/obj/Debug/net7.0/CalculatorLib.AssemblyInfo.cs
+/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/obj/Debug/net7.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/obj/Debug/net7.0/CalculatorLib.dll
+/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/obj/Debug/net7.0/refint/CalculatorLib.dll
+/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/obj/Debug/net7.0/CalculatorLib.pdb
+/Users/dantealejo/Documents/dotnet/UT/CalculatorLib/obj/Debug/net7.0/ref/CalculatorLib.dll
